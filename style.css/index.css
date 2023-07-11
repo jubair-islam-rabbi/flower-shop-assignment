@@ -40,8 +40,8 @@ body {
     padding-right: 100px;
     margin-bottom: 0px;
     padding-bottom: 0px;
-    
-    
+
+
 }
 
 .feature-flower {
@@ -171,6 +171,48 @@ body {
 .hot-deal .img-for-deal {
     padding-top: 150px;
     padding-left: 300px;
+}
+
+.favourite-flowers {
+    margin-top: 130px;
+    background: rgba(5, 151, 160, 0.15);
+    height: 800px;
+
+
+}
+
+.favourite-flowers .fev-img {
+    width: 200px;
+    height: 300px;
+    padding-left: 200px;
+    padding-bottom: 200px;
+}
+.favourite-flowers .fev-img-2{
+    width: 200px;
+    height: 300px;
+    padding-left: 1500px;
+    padding-bottom: 200px;
+}
+
+.flour-intro {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 200px;
+}
+
+.flour-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.shop-now{
+    text-align: center;
+}
+.favourite-flowers .btn-primary{
+    margin-left: 1060px;
 }
 
 .instagram {
