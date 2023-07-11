@@ -37,9 +37,11 @@ body {
 }
 
 .design-sec .intro-img {
-    padding-right: 200px;
+    padding-right: 100px;
     margin-bottom: 0px;
     padding-bottom: 0px;
+    
+    
 }
 
 .feature-flower {
@@ -61,8 +63,8 @@ body {
     line-height: 30px;
 }
 
-.pink>a{
-    color:red;
+.pink>a {
+    color: red;
 }
 
 .feature-flower .pink {
