@@ -61,6 +61,10 @@ body {
     line-height: 30px;
 }
 
+.pink>a{
+    color:red;
+}
+
 .feature-flower .pink {
     text-align: center;
 }
@@ -259,7 +263,7 @@ body {
     background: #FFF;
     border: none;
     margin-left: 360px;
-    
+
 }
 
 .background-img .btn-primary {
@@ -267,4 +271,41 @@ body {
     padding: 15px 15px;
     margin-left: 700px;
     margin-top: 40px;
+}
+
+footer .shop {
+    margin-top: 0px;
+    height: 400px;
+    background: #111010;
+    color: rgba(255, 255, 255, 0.90);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.flower-shop .shop-title {
+    font-size: 48px;
+    font-weight: 800px;
+    text-align: center;
+
+}
+
+.shop-title .text-primary {
+    color: #E55473;
+}
+
+.flower-shop .shop-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400px;
+    line-height: 30px;
+
+}
+
+.shop .shop-details {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 50px;
 }
