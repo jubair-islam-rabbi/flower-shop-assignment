@@ -187,22 +187,84 @@ body {
     font-weight: 400;
     line-height: 30px;
 }
-.pictures{
+
+.pictures {
     margin-top: 60px;
     padding-left: 200px;
     padding-right: 200px;
     justify-content: space-between;
+
+}
+
+.pictures .img-1 {
+    padding-right: 150px;
+}
+
+.pictures .img-2 {
+    padding-right: 150px;
+}
+
+.pictures .img-3 {
+    padding-right: 150px;
+}
+
+.pictures .img-4 {
+    /* padding-left: 350px; */
+}
+
+.background {
+    margin-top: 130px;
+}
+
+.background-img {
+    border-radius: 8px;
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    width: 1440px;
+    height: 449px;
+    background-repeat: no-repeat;
+    margin-left: 400px;
+    padding-top: 100px;
+
+}
+
+.background-img .deals {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.background-img .deals-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 10px;
+}
+
+.background-img .eml-btn {
+    display: block;
+    margin-top: 40px;
+}
+
+.background-img .email {
+    width: 700px;
+    height: 40px;
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+    margin-left: 360px;
     
 }
-.pictures .img-1{
-    padding-right: 150px;
-}
-.pictures .img-2{
-    padding-right: 150px;
-}
-.pictures .img-3{
-    padding-right: 150px;
-}
-.pictures .img-4{
-    /* padding-left: 350px; */
+
+.background-img .btn-primary {
+    height: 40px;
+    padding: 15px 15px;
+    margin-left: 700px;
+    margin-top: 40px;
 }
